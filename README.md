@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joywp-ops
-- 👀 I’m interested in ...Jr Front End or Web Developer positions
+- 👀 I’m interested in ...Front End or Web Developer positions
 - 🌱 I’m currently learning ... Microsoft Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at my e-mail.
