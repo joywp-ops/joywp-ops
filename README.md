@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joywp-ops
-- 👀 I’m interested in ...Front End or Web Developer positions.
-- 🌱 I’m currently learning ...Kotlin and Dart.
-- 💞️ I’m looking to collaborate on ... App development and studying code.
+- 👀 I’m interested in ... Web Developer positions.
+- 🌱 I’m currently learning ... Python and PHP.
+- 💞️ I’m looking to collaborate on ... cybersecurity and studying code.
 - 📫 How to reach me ... at my e-mail.
 
 <!---
