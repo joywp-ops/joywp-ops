@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joywp-ops
-- 👀 I’m interested in ... Web Developer positions.
-- 🌱 I’m currently learning ... Python and PHP.
+- 👀 I’m interested in ... Web Development and Computer Science.
+- 🌱 I’m currently learning ... Python and Linux.
 - 💞️ I’m looking to collaborate on ... cybersecurity techniques and studying code.
 - 📫 How to reach me ... at my e-mail.
 
